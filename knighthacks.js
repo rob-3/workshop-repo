@@ -1,1 +1,3 @@
-console.log("KnightHacks is the best!");
+for (let i = 0; i < 5; i++) {
+  console.log("KnightHacks is the best!");
+}
